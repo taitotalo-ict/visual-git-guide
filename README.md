@@ -1,6 +1,8 @@
 A Visual Git Reference
 ======================
 
+Muutos
+
 The goal of this website is to be a concise, visual reference for how git
 commands work.  I often draw pictures like this on a whiteboard for my
 colleagues, so I figured I would make a nice electronic version once and for
